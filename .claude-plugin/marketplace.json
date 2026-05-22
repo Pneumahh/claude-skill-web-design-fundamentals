@@ -1,0 +1,19 @@
+{
+  "name": "web-design-fundamentals",
+  "owner": {
+    "name": "Pneumahh",
+    "url": "https://github.com/Pneumahh"
+  },
+  "metadata": {
+    "description": "Web-design fundamentals skill, packaged as a Claude Code plugin. Vendored from ccwriter369-beep/claude-skill-web-design-fundamentals.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "web-design-fundamentals",
+      "source": "./",
+      "description": "Professional web-design rules: type scale, grids, 8-pt spacing, 60-30-10 color, contrast, conversion. Invoke with /web-design-fundamentals.",
+      "category": "web-design"
+    }
+  ]
+}

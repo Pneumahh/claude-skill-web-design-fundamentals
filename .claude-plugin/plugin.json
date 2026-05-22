@@ -1,0 +1,11 @@
+{
+  "name": "web-design-fundamentals",
+  "description": "Professional web-design rules and workflows: type scales, grid systems, the 8-point system, 60-30-10 color, contrast/accessibility, and conversion-focused layout.",
+  "author": {
+    "name": "ccwriter369-beep",
+    "url": "https://github.com/ccwriter369-beep"
+  },
+  "homepage": "https://github.com/ccwriter369-beep/claude-skill-web-design-fundamentals",
+  "repository": "https://github.com/Pneumahh/claude-skill-web-design-fundamentals",
+  "keywords": ["webdesign", "typography", "grid", "color", "accessibility", "conversion"]
+}
